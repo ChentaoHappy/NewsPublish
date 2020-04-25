@@ -1,0 +1,9 @@
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp3.1\NewsPublish.Model.deps.json
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp3.1\NewsPublish.Model.dll
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp3.1\NewsPublish.Model.pdb
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.csprojAssemblyReference.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.AssemblyInfoInputs.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.AssemblyInfo.cs
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.dll
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp3.1\NewsPublish.Model.pdb

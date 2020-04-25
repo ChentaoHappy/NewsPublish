@@ -1,0 +1,12 @@
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp3.1\NewsPublish.Service.deps.json
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp3.1\NewsPublish.Service.dll
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.csprojAssemblyReference.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.AssemblyInfoInputs.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.AssemblyInfo.cs
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp3.1\NewsPublish.Service.pdb
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp3.1\NewsPublish.Model.dll
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp3.1\NewsPublish.Model.pdb
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.csproj.CoreCompileInputs.cache
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.csproj.CopyComplete
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.dll
+C:\Users\Tao\source\repos\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp3.1\NewsPublish.Service.pdb
